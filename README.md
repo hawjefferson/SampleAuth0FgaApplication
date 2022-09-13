@@ -8,6 +8,20 @@ Pre-requisites:
 2.) Auth0 FGA service - https://dashboard.fga.dev/
 3.) Sample app listed here - https://bit.ly/3L5qeND
 
+To run:
+
+Step 1: Within the working folder, run ```npm install```
+Step 2: run ```npm start```
+Step 3: All Test users have a password of Welcome1
+
+Email
+matt@example.com
+sam@example.com
+daniel@example.com
+peter@example.com
+
+
+
 FGA Setup:
 
 Model Explorer:
