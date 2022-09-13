@@ -17,7 +17,7 @@ Step 3: All Test users have a password of ```Welcome1``` <br>
 Test users: <br>
 matt@example.com - Manager <br>
 sam@example.com - Employee <br>
-daniel@example.com - Manager
+daniel@example.com - Manager <br>
 peter@example.com - Employee <br>
 
 
