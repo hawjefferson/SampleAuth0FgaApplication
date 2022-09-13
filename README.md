@@ -10,9 +10,9 @@ Pre-requisites:
 
 To run:
 
-Step 1: Within the working folder, run ```npm install```
-Step 2: run ```npm start```
-Step 3: All Test users have a password of Welcome1
+Step 1: Within the working folder, run ```npm install``` <br>
+Step 2: run ```npm start``` <br>
+Step 3: All Test users have a password of ```Welcome1``` <br>
 
 Email
 matt@example.com
