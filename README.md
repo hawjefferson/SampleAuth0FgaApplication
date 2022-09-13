@@ -26,7 +26,7 @@ FGA Setup:
 
 Model Explorer:
 
-'''
+```
 type expense
   relations
     define approver as manager from submitter
@@ -36,7 +36,7 @@ type expense
 type employee
   relations
     define manager as self or manager from manager
-'''
+```
 
 ![image](https://user-images.githubusercontent.com/47293714/189871942-b90a0cd8-5043-4451-a05c-1f84205414ef.png)
 
