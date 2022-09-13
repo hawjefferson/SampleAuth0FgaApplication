@@ -14,11 +14,11 @@ Step 1: Within the working folder, run ```npm install``` <br>
 Step 2: run ```npm start``` <br>
 Step 3: All Test users have a password of ```Welcome1``` <br>
 
-Email
-matt@example.com
-sam@example.com
-daniel@example.com
-peter@example.com
+Test users: <br>
+matt@example.com - Manager <br>
+sam@example.com - Employee <br>
+daniel@example.com - Manager
+peter@example.com - Employee <br>
 
 
 
