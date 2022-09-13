@@ -1,0 +1,6 @@
+{
+    "domain": "samplefga.us.auth0.com",
+    "clientId": "HCjVrgYRFv42qdPkKA690CB1tWStXlGd",
+    "audience": "http://localhost:3101/api/v1"
+  }
+  
